@@ -1,0 +1,6 @@
+0 Polusi Air
+1 Polusi Udara
+2 Polusi Cahaya
+3 Polusi Suara
+4 Polusi Tanah
+5 Polusi Visual
